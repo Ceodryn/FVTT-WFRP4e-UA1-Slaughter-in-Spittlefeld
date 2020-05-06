@@ -1,0 +1,33 @@
+{   
+   "name": "wfrp4e-ua1-sis",   
+   "title": "Ubersreik Adventures: Slaughter in Spittlefeld (WFRP4e)",   
+   "description": "Content from the Ubersreik Adventures: Slaughter in Spittlefeld for Warhammer Fantary Roleplay 4e",   
+   "author": "Ceodryn",
+   "version": "1.0.0",
+   "systems": ["wfrp4e"],
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+    {
+      "name": "sis-journal",
+      "label": "Slaughter in Spittlefeld Notes",
+      "path": "packs/sis-journals.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-ua1-sis"
+    },
+    {
+      "name": "sis-actors",
+      "label": "Slaughter in Spittlefeld Actors",
+      "path": "packs/sis-actors.db",
+      "entity": "Actor",
+      "module": "wfrp4e-ua1-sis"
+    },
+    {
+      "name": "sis-scenes",
+      "label": "Slaughter in Spittlefeld Scenes",
+      "path": "packs/sis-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-ua1-sis"
+    }
+  ]
+ }
