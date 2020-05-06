@@ -3,7 +3,7 @@ Content from the Cubicle 7's Ubersreik Adventure: Slaughter in Spittlefeld for W
 
 ## Installation
 Add via Foundry VTT Module Setup screen.
-* Manifest URL: 
+* Manifest URL: https://raw.githubusercontent.com/Ceodryn/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/master/module.json
 * The GM needs to enable the module for the World:
 * Settings > Manage Modules > tick Ubersreik Adventures: Slaughter in Spittlefeld (WFRP4e)
 
