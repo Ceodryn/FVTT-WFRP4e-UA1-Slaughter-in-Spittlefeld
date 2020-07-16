@@ -4,7 +4,7 @@
 	"description": "Content from the Ubersreik Adventures: Slaughter in Spittlefeld for Warhammer Fantary Roleplay 4e",
 	"author": ["Ceodryn"],
 	"version": "1.0.1",
-	"manifest": "https://raw.githubusercontent.com/Ceodryn/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/master/module.json,
+	"manifest": "https://raw.githubusercontent.com/Ceodryn/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/master/module.json",
 	"download": "",
 	"url": "https://github.com/Ceodryn/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld",
 	"systems": ["wfrp4e"],
